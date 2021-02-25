@@ -1,9 +1,28 @@
+
 Created by PythonX ~ ShahadathAkash
 
-how to run :
+requirements:
 
-Linux ---> python whatstheip.py
+1.Python3
 
-Windows ---> whatstheip.py
+how to run:
 
-Termux ---> pkg install python ---> python whatstheip.py
+Linux:
+
+Terminal
+
+1.python3 whatstheip.py
+
+Windows:
+
+cmd
+
+1.whatstheip.py
+
+Termux:
+
+Terminal
+
+python whatstheip.py
+
+THANK YOU
